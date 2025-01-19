@@ -31,7 +31,7 @@ This dataset is licensed under the [MIT License](https://opensource.org/licenses
 ## Citation
 
 If you use this dataset in your research, please cite it as:
-Mrittika Sengupta, Nazifa Nahian, Shahnewaz Siddique. (2025). *Human-Drawn Sketch Dataset*. Available at: https://github.com/Mrittika-Sengupta/HumanDrawnSketch-Dataset.git
+Mrittika Sen Gupta, Nazifa Nahian, Shahnewaz Siddique. (2025). *Human-Drawn Sketch Dataset*. Available at: [Human-Drawn Sketch Dataset](https://github.com/Mrittika-Sengupta/HumanDrawnSketch-Dataset.git)
 
 ## Acknowledgments
 
