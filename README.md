@@ -35,6 +35,6 @@ Mrittika Sen Gupta, Nazifa Nahian, Shahnewaz Siddique. (2025). *Human-Drawn Sket
 
 ## Acknowledgments
 
-- The dataset was created with the help of artists.
+- The dataset was created by ourselves with the help of artists.
 - Publicly available sketches from Google were added to the dataset.
 
